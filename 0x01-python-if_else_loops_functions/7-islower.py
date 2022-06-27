@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 def islower(c):
-    c = str(c)
     if ord(c) in range(97, 123):
         return True
     elif ord(c) not in range(97, 123):
