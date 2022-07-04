@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import sys
 if __name__ == "__main__":
-    number = len(argv) - 1
+    number = len(ys.rgv) - 1
     if number == 1:
         print("{} argument:".format(1))
     elif number == 0:
